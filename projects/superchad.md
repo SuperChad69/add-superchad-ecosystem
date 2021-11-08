@@ -4,7 +4,7 @@ date: "2021-10-13"
 title: "Superchad"
 logline: "Superchad is a unique Solana based NFT , Superchad is a Gentleman that always keep cool under all circumstances."
 cta: "https://www.superchad.io/"
-logo: /img/android-chrome-512x512.png
+logo: /img/superchad.png
 category: nft, community
 status: building
 website: https://www.superchad.io/
